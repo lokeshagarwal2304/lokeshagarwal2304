@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on AI-driven web applications, and anything that pushes the boundaries of technology while keeping ethics in mind. Let’s innovate together! ✨
 
-📫 How to reach me: Slide into my **DMs** on **LinkedIn**(lokeshagarwal2304) oror **IG:**(_ _lokesh._ _ _.agarwal_ _) drop me a line at **lokeshagarwal2304@gmail.com**. I promise I don’t bite! 😏
+📫 How to reach me: Slide into my **DMs** on **LinkedIn**(lokeshagarwal2304) or **IG:**(_ _lokesh._ _ _.agarwal_ _) drop me a line at **lokeshagarwal2304@gmail.com**. I promise I don’t bite! 😏
 
 🔧 I’m passionate about open-source projects and love participating in hackathons—let’s turn ideas into reality and make some tech magic happen! 🚀
 
