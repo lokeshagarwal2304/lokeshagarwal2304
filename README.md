@@ -79,18 +79,6 @@ I’m a final-year Computer Science (AI & ML) student at Malla Reddy Engineering
  • 🎨 Graphic & Data Intern – Sunrise Enterprises Ltd.
  • 🌐 Junior Dev & Designer – R Education Services & Skilltimate Technologies
 
-🌱 I’ve built full-stack systems using MERN, delivered AI solutions in areas like insurance detection, stress analysis, and explored Generative AI for automation.
-
-🧠 Hands-on with tools like PyTorch, TensorFlow, MongoDB, React, Node.js, Google Cloud, and HuggingFace.
-
-🧩 Freelancing, Design Thinking, and GPT tool integration are part of my toolbox.
-
-🏓 On the lighter side – I’ve represented my district in Table Tennis & Carroms too 😉
-
-🔍 Currently exploring internships and job opportunities in Software Development, AI, and Web3 domains.
-
-🧾 Check out my Resume | Portfolio
-
 “I build tech that speaks for itself — scalable, ethical, and future-ready.”
 
 ---
