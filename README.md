@@ -11,10 +11,10 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=680&height=100&lines=⚡️+AI+%2B+Web3+Believer+🧠;Full+Stack+MERN+Developer+💻;Generative+AI+Builder+🤖;Hackathon+Love+🥇;From+Hyderabad+with+Code+🇮🇳;Bolo+Tech+Se+Smart+India+Banayein+🚀;Web+Development+Enthusiast+🌐;CSE+AIML+Student+🎓;Tum+Code+ho+ya+Crush%2C+kyunki+mera+dhyan+tumpe+hi+rehta+hai+💘" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://sdmntprwestcentralus.oaiusercontent.com/files/00000000-861c-61fb-a3f0-2c7e77e7d391/raw?se=2025-06-10T21%3A45%3A34Z&sp=r&sv=2024-08-04&sr=b&scid=e7dc3bc8-40bb-597b-bba9-ecf0f8b13fbe&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-10T19%3A23%3A32Z&ske=2025-06-11T19%3A23%3A32Z&sks=b&skv=2024-08-04&sig=ZVRVQAYEY/PHPvY3yuO3gAV/uvsrSLZ48E6cpwYNNzA%3D"/>
+  <img src="https://raw.githubusercontent.com/lokeshagarwal2304/lokeshagarwal2304/main/Design.png" alt="Design Image" />
 </p>
+
 
 ---
 ### ABOUT ME
