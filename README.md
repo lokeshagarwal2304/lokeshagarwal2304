@@ -3,7 +3,12 @@
 </p>
 
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 2.5rem;">
-  🔥 Hey da! I'm <span style="color:#FF6F61;">Lokesh Agarwal</span> 💻  
+  🔥 Hey da! I'm <span style="color:#FF6F61;">Lokesh Agarwal</span> 💻 
+<div align="">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
+</div>
+
 </h1>
 
 <p align="center">
@@ -141,3 +146,6 @@ I’m a final-year Computer Science (AI & ML) student at Malla Reddy Engineering
 <p align="center">
   <a href="https://github.com/lokeshagarwal2304">🚀 Visit My GitHub Profile</a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1200">
+
