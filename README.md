@@ -17,7 +17,9 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lokeshagarwal2304/lokeshagarwal2304/main/Design.png" alt="Design Image" />
+  <a href="https://drive.google.com/file/d/1-W1VRpWPmWiPWjQX7i9Ni1dklMtJYgzH/view?usp=sharing" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=1-W1VRpWPmWiPWjQX7i9Ni1dklMtJYgzH" alt="Demo GIF" width="1600" />
+  </a>
 </p>
 
 
