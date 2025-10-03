@@ -42,8 +42,6 @@ I’m a driven innovator in the realms of Web Development 🌐, Generative AI �
     <img src="https://img.shields.io/badge/📄 Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" alt="Lokesh Agarwal Resume" />
   </a>
 </p>
-
-
 ---
 
 ### 🛠 Languages and Tools
