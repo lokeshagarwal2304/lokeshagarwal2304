@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
 </div>
 </h1>
-
+...
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=680&height=100&lines=⚡️+AI+%2B+Web3+Believer+🧠;Full+Stack+MERN+Developer+💻;Generative+AI+Builder+🤖;Hackathon+Love+🥇;From+Hyderabad+with+Code+🇮🇳;Bolo+Tech+Se+Smart+India+Banayein+🚀;Web+Development+Enthusiast+🌐;CSE+AIML+Student+🎓;Tum+Code+ho+ya+Crush%2C+kyunki+mera+dhyan+tumpe+hi+rehta+hai+💘" alt="Typing SVG" />
