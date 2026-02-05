@@ -6,7 +6,7 @@
   🔥 Hey da! I'm <span style="color:#FF6F61;">Lokesh Agarwal</span> 💻 
 <div align="">
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
+  <img src="[https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif](https://drive.google.com/file/d/19PCNbRIi3RaWSHif5bEu9PAp5bFdFzTR/view?usp=drive_link)" width="60">
 </div>
 </h1>
 
