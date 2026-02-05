@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <a href="[https://drive.google.com/file/d/1-W1VRpWPmWiPWjQX7i9Ni1dklMtJYgzH/view?usp=sharing](https://drive.google.com/file/d/19PCNbRIi3RaWSHif5bEu9PAp5bFdFzTR/view?usp=drive_link)" target="_blank">
-    <img src="[https://drive.google.com/file/d/19PCNbRIi3RaWSHif5bEu9PAp5bFdFzTR/view?usp=drive_link](https://drive.google.com/file/d/19PCNbRIi3RaWSHif5bEu9PAp5bFdFzTR/view?usp=drive_link)" alt="Demo GIF" width="1600" />
+  <a href="https://drive.google.com/uc?export=view&id=19PCNbRIi3RaWSHif5bEu9PAp5bFdFzTR" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=19PCNbRIi3RaWSHif5bEu9PAp5bFdFzTR" alt="Demo GIF" width="1600" />
   </a>
 </p>
 
