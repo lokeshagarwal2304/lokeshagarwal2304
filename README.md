@@ -84,6 +84,7 @@ I’m a final-year Computer Science (AI & ML) student at Malla Reddy Engineering
  • 🧠 AI Feature Intern – Boston Consulting Group (BCG)
  • 🎨 Graphic & Data Intern – Sunrise Enterprises Ltd.
  • 🌐 Junior Dev & Designer – R Education Services & Skilltimate Technologies
+ • </> Web Developer - Rudra Construction Ltd.
 
 “I build tech that speaks for itself — scalable, ethical, and future-ready.”
 
